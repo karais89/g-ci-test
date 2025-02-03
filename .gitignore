@@ -1,3 +1,7 @@
+# Ignore temporaries from GameCI
+/[Aa]rtifacts/
+/[Cc]odeCoverage/
+
 # Unity 생성 폴더
 [Ll]ibrary/
 [Tt]emp/
